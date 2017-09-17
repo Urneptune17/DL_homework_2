@@ -1,1 +1,1 @@
-(From|To): (o|O).*(com|org)
+((\s)\b(o)\S+@\S*\.\S+)
